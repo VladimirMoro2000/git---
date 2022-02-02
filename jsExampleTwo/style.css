@@ -1,0 +1,36 @@
+.box {
+    text-align: center;
+    margin: 10px 0px;
+    width: 150px;
+    height: 150px;
+    background-color:red;
+}
+
+button {
+    background-color: black;
+    color: rgb(235, 228, 228);
+    width: 60px;
+    height: 25px;
+    border-radius: 10px;
+}
+
+.circle {
+    margin: 10px 0px;
+    background-color: blue;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    text-align: center;
+}
+
+.hearts {
+    display: flex;
+    flex-direction: row;
+}
+
+.wrapper {
+    margin: 10px 10px;
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
